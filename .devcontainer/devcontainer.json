@@ -6,8 +6,5 @@
 	"forwardPorts": [
 		3000,
 		6006
-	],
-	
-	"onCreateCommand": "git pull && pnpm install",
-	"postCreateCommand": "git pull && pnpm install"
+	]
 }
